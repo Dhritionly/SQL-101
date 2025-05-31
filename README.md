@@ -1,9 +1,12 @@
+
 # SQL-101
 Welcome to SQL world.
+
+```
 CREATE DATABASE collage3;
 USE collage3;
 
-'''
+
 CREATE TABLE student(
 id INT PRIMARY KEY,
 name VARCHAR(50)
@@ -32,4 +35,5 @@ SELECT * FROM course;
 
 SELECT * FROM student AS s
 LEFT JOIN course AS c
-ON s.id = c.id;'''
+ON s.id = c.id;
+```
