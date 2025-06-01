@@ -1,7 +1,7 @@
 
 # SQL-101
 Welcome to SQL world.\
-**I have used My SQl**\
+>I have used My SQl\
 Here you can find all my SQL Codes, Notes and Projects.\
 \
 **NOTES**\
