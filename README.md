@@ -5,4 +5,3 @@ Here you can find all my SQL Codes, Notes and Projects.
 
 
 
-
