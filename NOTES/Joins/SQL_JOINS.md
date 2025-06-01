@@ -1,9 +1,4 @@
-﻿
-
 ## SQL JOINS
-
-
-
 
 
 SQL joins are essential for bringing together data from multiple tables based on related columns. Understanding the different types allows for powerful data retrieval and analysis.
