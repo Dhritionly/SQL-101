@@ -1,6 +1,6 @@
 ## SQL JOINS
 
-
+## Hand Written Notes - [Link](https://github.com/Dhritionly/SQL-101/blob/c00a60a61c7331aa94ac0c919579a73eb1a0c66c/NOTES/Joins/hand-written-notes.pdf) 
 SQL joins are essential for bringing together data from multiple tables based on related columns. Understanding the different types allows for powerful data retrieval and analysis.
 
 First Going deep into that Part We have to create a Database after that Two sample dataset to perform these actions.
