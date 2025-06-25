@@ -1,4 +1,3 @@
-
 # SQL-101
 
 Your Comprehensive SQL Learning Hub
