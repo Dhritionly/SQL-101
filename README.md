@@ -26,7 +26,7 @@ Here, you'll find:
 ### Solved SQL Problems: A collection of meticulously documented solutions to various SQL challenges, including problems from platforms like LeetCode. Each solution aims for clarity and efficiency, often with multiple approaches or explanations where applicable.
 
 
-  * `LeetCode SQL 50` [Link]( ) 
+  * `LeetCode SQL 50` [Link]( https://1drv.ms/o/c/57cbb482ddce028f/EsHs5D3Hm1dLvY2SC2S3UHABMp-gQ4IZ5f0w-BJNHeXmtg) 
 
 Whether you're starting your journey in data, preparing for technical interviews, or simply looking for a quick reference, sql-101 is built to be a valuable companion. Explore the notes, follow the guides, and learn from the solved problems to enhance your SQL proficiency.
 
