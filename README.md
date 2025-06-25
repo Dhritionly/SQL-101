@@ -8,7 +8,7 @@ Here, you'll find:
 
 ### MySQL Installation Guides: Step-by-step instructions for setting up MySQL on Windows.
 
-  * `INSTALLATION GUIDE MY SQL `- [YOUTUBE LINK](https://youtu.be/-ceKr-nEZag?si=Ngq5_iHCOsW2_Tuo)
+  * `INSTALLATION GUIDE MY SQL `- [Link](https://youtu.be/-ceKr-nEZag?si=Ngq5_iHCOsW2_Tuo)
 
 
 ![SQl](https://github.com/user-attachments/assets/7fcde269-cf7f-40ce-8d70-b5564adeb927)
@@ -18,7 +18,7 @@ Here, you'll find:
 
 ### Detailed SQL Notes: Comprehensive explanations of core SQL concepts, syntax, and best practices.
 
-  * `SQL JOINS NOTES` [LINK](https://github.com/Dhritionly/SQL-101/blob/c00a60a61c7331aa94ac0c919579a73eb1a0c66c/NOTES/Joins/SQL_JOINS.md)
+  * `SQL JOINS NOTES` [Link](https://github.com/Dhritionly/SQL-101/blob/c00a60a61c7331aa94ac0c919579a73eb1a0c66c/NOTES/Joins/SQL_JOINS.md)
 
 
 
