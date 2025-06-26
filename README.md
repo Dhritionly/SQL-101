@@ -26,10 +26,10 @@ Here, you'll find:
 
 
   ### LeetCode 🧑🏻‍💻
-   * `SQL 50` [Link](https://onedrive.live.com/view.aspx?resid=57CBB482DDCE028F%21s3de4ecc19bc74b57bd8d920b64b75070&id=documents&wd=target%28SQL%2050.one%7C26955FD6-13AB-3F46-915C-90DBF402AC4F%2F%29)
+   * `SQL 50` [Link](https://1drv.ms/o/c/57cbb482ddce028f/EsHs5D3Hm1dLvY2SC2S3UHABMp-gQ4IZ5f0w-BJNHeXmtg)
 
   ### CodeChef 👨‍🍳
-   * `SQl Prcatice` [link](https://onedrive.live.com/view.aspx?resid=57CBB482DDCE028F%21s4ca8cffe98544aff9448136757660a23&id=documents&wd=target%28SQL%20Practice.one%7CE69768E8-DFB2-46A5-9DF1-180C8819019A%2F%29)
+   * `SQl Prcatice` [link](https://1drv.ms/o/c/57cbb482ddce028f/Ev7PqExUmP9KlEgTZ1dmCiMBWXIAVoloafw6UE2gJI-p1g)
 
 Whether you're starting your journey in data, preparing for technical interviews, or simply looking for a quick reference, sql-101 is built to be a valuable companion. Explore the notes, follow the guides, and learn from the solved problems to enhance your SQL proficiency.
 
