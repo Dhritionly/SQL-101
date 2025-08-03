@@ -3,7 +3,7 @@
 Your Comprehensive SQL Learning Hub
 This repository serves as a centralized resource for all things SQL, designed to support both beginners and those looking to reinforce their database knowledge.
 
-Here, you'll find:
+# SQL-101
 
 ### MySQL Installation Guides: Step-by-step instructions for setting up MySQL on Windows.
 
